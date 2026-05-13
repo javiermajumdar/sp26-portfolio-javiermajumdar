@@ -5,7 +5,7 @@ description: Analysis of Heat Transfer Pset
 image: /assets/images/HT.png
 ---
 # Problem Set
-[Heat Transfer Problem Set (PDF)](/assets/Problem_set_4.pdf)
+[Heat Transfer Problem Set (PDF)](/sp26-portfolio-javiermajumdar/assets/Problem_set_4.pdf)
 
 # Reflection
 This problem set covered several heat transfer concepts and involved analyzing different thermal systems. I chose this assignment because it felt very applicable to real engineering situations. It combined concepts including conduction, convection, and radiation, and helped show how they interact in the same system. Working through the problems helped me understand how these heat transfer processes can be modeled using thermal resistance networks, which made the overall heat transfer process much clearer. It also gave me experience analyzing conduction through different material layers and introduced me to how fins can be used to control temperature in an engineering design context. Specifically, the extended rod problem showed how heat transfer analysis can be used to determine whether a component will stay within a safe operating limit and how changing the exposed length affects performance.
